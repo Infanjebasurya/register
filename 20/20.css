@@ -1,0 +1,12 @@
+.hi{
+    background-color:red;
+    height: 40vh;
+    width: 40vh;
+    transform: scaleX(2 );
+}
+.hi1{
+    background-color: blue;
+    height: 40vh;
+    width: 40vh;
+    transform: rotate(10deg);
+}
